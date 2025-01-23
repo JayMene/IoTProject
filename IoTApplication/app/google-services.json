@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464962120833",
+    "project_id": "iotdb-ce897",
+    "storage_bucket": "iotdb-ce897.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464962120833:android:7c5ffb1708dd0197227180",
+        "android_client_info": {
+          "package_name": "com.example.iotapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdhq6W2NKJNc4jUprGRZHTKgVYGL7_0X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
